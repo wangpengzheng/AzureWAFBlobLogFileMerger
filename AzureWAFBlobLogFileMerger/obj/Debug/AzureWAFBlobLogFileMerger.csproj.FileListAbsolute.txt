@@ -1,0 +1,6 @@
+D:\Dev\OnlineSolution\AzureWAFBlobLogFileMerger\AzureWAFBlobLogFileMerger\bin\Debug\AzureWAFBlobLogFileMerger.exe.config
+D:\Dev\OnlineSolution\AzureWAFBlobLogFileMerger\AzureWAFBlobLogFileMerger\bin\Debug\AzureWAFBlobLogFileMerger.exe
+D:\Dev\OnlineSolution\AzureWAFBlobLogFileMerger\AzureWAFBlobLogFileMerger\bin\Debug\AzureWAFBlobLogFileMerger.pdb
+D:\Dev\OnlineSolution\AzureWAFBlobLogFileMerger\AzureWAFBlobLogFileMerger\obj\Debug\AzureWAFBlobLogFileMerger.csprojAssemblyReference.cache
+D:\Dev\OnlineSolution\AzureWAFBlobLogFileMerger\AzureWAFBlobLogFileMerger\obj\Debug\AzureWAFBlobLogFileMerger.exe
+D:\Dev\OnlineSolution\AzureWAFBlobLogFileMerger\AzureWAFBlobLogFileMerger\obj\Debug\AzureWAFBlobLogFileMerger.pdb

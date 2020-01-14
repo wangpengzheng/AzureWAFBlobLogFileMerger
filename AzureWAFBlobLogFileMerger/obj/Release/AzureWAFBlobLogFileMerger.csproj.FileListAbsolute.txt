@@ -1,0 +1,5 @@
+D:\Dev\OnlineSolution\AzureWAFBlobLogFileMerger\AzureWAFBlobLogFileMerger\bin\Release\AzureWAFBlobLogFileMerger.exe.config
+D:\Dev\OnlineSolution\AzureWAFBlobLogFileMerger\AzureWAFBlobLogFileMerger\bin\Release\AzureWAFBlobLogFileMerger.exe
+D:\Dev\OnlineSolution\AzureWAFBlobLogFileMerger\AzureWAFBlobLogFileMerger\bin\Release\AzureWAFBlobLogFileMerger.pdb
+D:\Dev\OnlineSolution\AzureWAFBlobLogFileMerger\AzureWAFBlobLogFileMerger\obj\Release\AzureWAFBlobLogFileMerger.exe
+D:\Dev\OnlineSolution\AzureWAFBlobLogFileMerger\AzureWAFBlobLogFileMerger\obj\Release\AzureWAFBlobLogFileMerger.pdb
